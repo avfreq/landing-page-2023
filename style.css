@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-size: 1.6rem;
+    color: #555;
+}
+
+.global-container {
+    display: flex;
+    margin: 0 auto;
+    justify-content: center;
+    max-width: 50%;
+    background-color: lightblue;
+
+}
+
+.global-container p {
+    color: #555;
+    font-weight: 700;
+    text-transform: uppercase;
+    margin-top: 10rem;
+    font-size: 3rem;
+}
