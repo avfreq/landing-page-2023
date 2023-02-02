@@ -1,0 +1,20 @@
+/-----------------------/
+COLORS - 
+/-----------------------/
+color: #ddd;
+
+
+/-----------------------/
+FONTS - 
+/-----------------------/
+
+font-family: 'Orbitron', sans-serif;
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@400;500;600;
+
+/-----------------------/
+youtube - 
+/-----------------------/
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gbVpNqiR0YA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
