@@ -1,5 +1,5 @@
 
-@media screen and (max-width: 1920px) {
+/* @media screen and (max-width: 1920px) {
     .sub-section-1-span1 {
         font-size: 5rem;
     }
@@ -13,7 +13,7 @@
         grid-template-rows: 3fr 5fr .5fr;
     }
 
-}
+} */
 
 @media screen and (max-width: 1620px) {
     .sub-section-1-span1 {
@@ -93,6 +93,12 @@
         grid-template-rows: 3fr 5fr .5fr;
     }
 
+    .container-section-1 {
+        /* grid-template-columns: 1fr 1fr 1fr; */
+        grid-template-rows: 2.5fr 5fr .5fr;
+    }
+
+
 }
 
 @media screen and (max-width: 420px) {
@@ -116,5 +122,11 @@
     .sub-section-1-para-1 {
         font-size: 1.2rem;
     }
+
+    .container-section-1 {
+        /* grid-template-columns: 1fr 1fr 1fr; */
+        grid-template-rows: 2fr 5fr .5fr;
+    }
+    
 
 }
