@@ -1,0 +1,120 @@
+
+@media screen and (max-width: 1920px) {
+    .sub-section-1-span1 {
+        font-size: 5rem;
+    }
+
+    .sub-section-1-span2 {
+        font-size: 2.7rem;
+    }
+
+    .container-section-1 {
+        grid-template-columns: 1fr 1fr 1fr;
+        grid-template-rows: 3fr 5fr .5fr;
+    }
+
+}
+
+@media screen and (max-width: 1620px) {
+    .sub-section-1-span1 {
+        font-size: 5rem;
+    }
+
+    .sub-section-1-span2 {
+        font-size: 2.7rem;
+    }
+
+    .container-section-1 {
+        grid-template-columns: .8fr 1fr .8fr;
+        grid-template-rows: 3fr 5fr .5fr;
+    }
+
+}
+
+@media screen and (max-width: 1320px) {
+    .sub-section-1-span1 {
+        font-size: 5rem;
+    }
+
+    .sub-section-1-span2 {
+        font-size: 2.7rem;
+    }
+
+    .container-section-1 {
+        grid-template-columns: .5fr 1fr .5fr;
+        grid-template-rows: 3fr 5fr .5fr;
+    }
+
+}
+
+@media screen and (max-width: 1020px) {
+    .sub-section-1-span1 {
+        font-size: 4rem;
+    }
+
+    .sub-section-1-span2 {
+        font-size: 2rem;
+    }
+
+    .container-section-1 {
+        grid-template-columns: .3fr 1fr .3fr;
+        grid-template-rows: 3fr 5fr .5fr;
+    }
+
+}
+
+@media screen and (max-width: 700px) {
+    .sub-section-1-span1 {
+        font-size: 4rem;
+    }
+
+    .sub-section-1-span2 {
+        font-size: 2rem;
+    }
+
+    .container-section-1 {
+        grid-template-columns: .2fr 1fr .2fr;
+        grid-template-rows: 3fr 5fr .5fr;
+    }
+
+}
+
+@media screen and (max-width: 535px) {
+    .sub-section-1-span1 {
+        font-size: 3rem;
+    }
+
+    .sub-section-1-span2 {
+        font-size: 1.2rem;
+    }
+
+    .container-section-1 {
+        grid-template-columns: .05fr 1fr .05fr;
+        grid-template-rows: 3fr 5fr .5fr;
+    }
+
+}
+
+@media screen and (max-width: 420px) {
+    .sub-section-1-span1 {
+        font-size: 3rem;
+    }
+
+    .sub-section-1-span2 {
+        font-size: 1.2rem;
+    }
+
+    .container-section-1 {
+        grid-template-columns: .02fr 1fr .02fr;
+        grid-template-rows: 3fr 5fr .5fr;
+    }
+
+    .sub-section-1-video-container {
+        padding: 0 1rem;
+    }
+
+    .sub-section-1-para-1 {
+        font-size: 1.2rem;
+    }
+
+}
