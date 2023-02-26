@@ -78,7 +78,7 @@ body {
     aspect-ratio: 3 / 1.6;
 }
 
-.sub-section-1-para-1 {
+.sub-section-1-para-1, .sub-section-1-ul, #time {
     /* grid-area: 3 / 2; */
     font-size: 1.5rem;
     line-height: 3rem;
@@ -86,7 +86,18 @@ body {
     margin-top: 1rem;
     text-align: justify;
     letter-spacing: .3rem;
+    list-style: none;
 }
+
+/* .sub-section-1-para-1 #time {
+
+} */
+
+.sub-section-1-ul a {
+    text-decoration: none;
+    color: rgb(255, 85, 0);
+}
+
 
 .sub-section-1-icon-container {
     grid-area: 3 / 2;
